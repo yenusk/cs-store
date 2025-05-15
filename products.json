@@ -1,0 +1,558 @@
+{
+  "products": {
+    "latest": [
+      {
+        "id": "1",
+        "name": "Lady Watch",
+        "desc": "Watch",
+        "price": 40,
+        "image": "./assets/images/watch10.jpg"
+      },
+      {
+        "id": "01",
+        "name": "Arm Chair",
+        "desc": "Chair",
+        "price": 60,
+        "image": "./assets/images/chair1.jpg"
+      },
+      {
+        "id": "2",
+        "name": "SKMEI Dual Time Watch",
+        "desc": "Watch",
+        "price": 45,
+        "image": "./assets/images/watch2.jpg"
+      },
+      {
+        "id": "02",
+        "name": "Arm chair",
+        "desc": "chair",
+        "price": 50,
+        "image": "./assets/images/chair2.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Nike Shoes",
+        "desc": "shoes",
+        "price": 20,
+        "image": "./assets/images/shoe4.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Leather Boots shoes",
+        "desc": "shoes",
+        "price": 30,
+        "image": "./assets/images/shoe7.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Bleu De Chanel",
+        "desc": "perfume",
+        "price": 20,
+        "image": "./assets/images/perfum1.jpg"
+      },
+      {
+        "id": "03",
+        "name": "Red Leather Armchair",
+        "desc": "Chair",
+        "price": 70,
+        "image": "./assets/images/chair3.png"
+      },
+      {
+        "id": "6",
+        "name": "DIOR J'Adore Perfume",
+        "desc": "perfume",
+        "price": 10,
+        "image": "./assets/images/perfum2.png"
+      },
+      {
+        "id": "7",
+        "name": "HP laptop",
+        "desc": "Laptop",
+        "price": 300,
+        "image": "./assets/images/lap1.jpg"
+      },
+      {
+        "id": "04",
+        "name": "Office Guest chair",
+        "desc": "Chair",
+        "price": 80,
+        "image": "./assets/images/chair5.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Acer Gaming laptop",
+        "desc": "Laptop",
+        "price": 800,
+        "image": "./assets/images/lap7.jpg"
+      },
+      {
+        "id": "9",
+        "name": "Jeans Jacket",
+        "desc": "Jacket",
+        "price": 20,
+        "image": "./assets/images/jack1.jpg"
+      },
+      {
+        "id": "05",
+        "name": "Travel bag",
+        "desc": "Bag",
+        "price": 67,
+        "image": "./assets/images/bag1.jpg"
+      },
+      {
+        "id": "10",
+        "name": "women jacket",
+        "desc": "jacket",
+        "price": 20,
+        "image": "./assets/images/jack2.png"
+      },
+      {
+        "id": "06",
+        "name": "Mini bag collections",
+        "desc": "Bag",
+        "price": 49,
+        "image": "./assets/images/bag2.png"
+      },
+      {
+        "id": "07",
+        "name": "Apple AirpodsMax",
+        "desc": "Airpod",
+        "price": 40,
+        "image": "./assets/images/airpod1.jpg"
+      },
+      {
+        "id": "08",
+        "name": "SONY ULT Wireless",
+        "desc": "Airpod",
+        "price": 30,
+        "image": "./assets/images/airpod2.jpg"
+      }
+    ],
+    "shoes": [
+      {
+        "id": "11",
+        "name": "Women's Shoes",
+        "desc": "shoes",
+        "price": 30,
+        "image": "./assets/images/shoe1.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Men's Lether Shoes",
+        "desc": "shoes",
+        "price": 29,
+        "image": "./assets/images/shoe2.jpg"
+      },
+      {
+        "id": "13",
+        "name": "Vans Fashion Shoes",
+        "desc": "Shoes",
+        "price": 30,
+        "image": "./assets/images/shoe3.jpg"
+      },
+      {
+        "id": "14",
+        "name": "Nike Shoes",
+        "desc": "Shoes",
+        "price": 45,
+        "image": "./assets/images/shoe4.jpg"
+      },
+      {
+        "id": "15",
+        "name": "Adidas Shoes",
+        "desc": "Shoes",
+        "price": 40,
+        "image": "./assets/images/shoe5.jpg"
+      },
+      {
+        "id": "16",
+        "name": "All Star Shoes",
+        "desc": "Shoes",
+        "price": 49,
+        "image": "./assets/images/shoe6.jpg"
+      },
+      {
+        "id": "17",
+        "name": "Leather Boots",
+        "desc": "Shoes",
+        "price": 50,
+        "image": "./assets/images/shoe7.jpg"
+      },
+      {
+        "id": "18",
+        "name": "Adidas Terex Shoes",
+        "desc": "Shoes",
+        "price": 40,
+        "image": "./assets/images/shoe8.jpg"
+      },
+      {
+        "id": "19",
+        "name": "Leather Sandals Shoes",
+        "desc": "Shoes",
+        "price": 30,
+        "image": "./assets/images/shoe9.jpg"
+      },
+      {
+        "id": "20",
+        "name": "Women's Sandals",
+        "desc": "Shoes",
+        "price": 10,
+        "image": "./assets/images/shoe19.jpg"
+      }
+    ],
+    "perfume": [
+      {
+        "id": "21",
+        "name": "Bleu De Chanel Parfum",
+        "desc": "Perfume",
+        "price": 60,
+        "image": "./assets/images/perfum1.jpg"
+      },
+      {
+        "id": "22",
+        "name": "DIOR J'Adore Perfume",
+        "desc": "Perfume",
+        "price": 55,
+        "image": "./assets/images/perfum2.png"
+      },
+      {
+        "id": "23",
+        "name": "Voronim Perfume",
+        "desc": "Perfume",
+        "price": 47,
+        "image": "./assets/images/perfum3.png"
+      },
+      {
+        "id": "24",
+        "name": "EAU De Cologne Perfume",
+        "desc": "Perfume",
+        "price": 50,
+        "image": "./assets/images/perfum5.jpg"
+      },
+      {
+        "id": "25",
+        "name": "DAVIDOFF Dodorant",
+        "desc": "Dodorant",
+        "price": 33,
+        "image": "./assets/images/perfume1.jpg"
+      },
+      {
+        "id": "26",
+        "name": "Red Vanilla Fragrance",
+        "desc": "Fragrance",
+        "price": 39,
+        "image": "./assets/images/perfume2.jpg"
+      },
+      {
+        "id": "27",
+        "name": "CHANEL Paris Parfum",
+        "desc": "Perfume",
+        "price": 54,
+        "image": "./assets/images/perfume3.png"
+      },
+      {
+        "id": "28",
+        "name": "AL IBDAA Perfume",
+        "desc": "Perfume",
+        "price": 50,
+        "image": "./assets/images/perfume5.jpg"
+      },
+      {
+        "id": "29",
+        "name": "Byredo Sellier Perfume",
+        "desc": "Perfume",
+        "price": 40,
+        "image": "./assets/images/perfume6.jpg"
+      },
+      {
+        "id": "30",
+        "name": "Miss Dior Rose Essence",
+        "desc": "Perfume",
+        "price": 38,
+        "image": "./assets/images/perfume8.jpg"
+      }
+    ],
+    "laptop": [
+      {
+        "id": "31",
+        "name": "HP Elitebook Laptop",
+        "desc": "Laptop",
+        "price": 400,
+        "image": "./assets/images/lap1.jpg",
+        "specs": "Core i5-8th generation <br> 16GB DDR4 RAM, 512 GB SSD Storage <br> With Keyboard Light"
+      },
+      {
+        "id": "32",
+        "name": "HP Pavillion Laptop",
+        "desc": "Laptop",
+        "price": 450,
+        "image": "./assets/images/lap4.jpg",
+        "specs": "Core i7-10th generation <br> 16GB DDR4 RAM, 512 GB SSD Storage <br> With Keyboard Light"
+      },
+      {
+        "id": "33",
+        "name": "MSI Gaming Laptop",
+        "desc": "Laptop",
+        "price": 950,
+        "image": "./assets/images/lap12.jpg",
+        "specs": "Core i5-11th generation <br> 32GB DDR5 RAM, 1TB SSD Storage <br>RTX 4060 Dedicated Grapics <br> With LED Keyboard Light"
+      },
+      {
+        "id": "34",
+        "name": "Hp ProBook Laptop",
+        "desc": "Laptop",
+        "price": 500,
+        "image": "./assets/images/lap13.jpg",
+        "specs": "Core i7-10th generation <br> 16GB DDR4 RAM, 512 GB SSD Storage <br> With Keyboard Light"
+      },
+      {
+        "id": "35",
+        "name": "Lenovo ThinkPad Laptop",
+        "desc": "Laptop",
+        "price": 480,
+        "image": "./assets/images/lap3.jpg",
+        "specs": "Core i7-10th generation <br> 16GB RAM, 1TB SSD Storage <br> With White Keyboard Light"
+      },
+      {
+        "id": "36",
+        "name": "Acer Predator Laptop",
+        "desc": "Laptop",
+        "price": 840,
+        "image": "./assets/images/lap10.jpg",
+        "specs": "Core i5-12th generation <br> 16GB DDR4 RAM, 512 GB SSD Storage <br> With Keyboard Light"
+      },
+      {
+        "id": "37",
+        "name": "Acer Gaming Laptop",
+        "desc": "Laptop",
+        "price": 940,
+        "image": "./assets/images/lap6.jpg",
+        "specs": "Core i7-12th generation <br> 32GB RAM, 1TB SSD Storage <br> With LED Keyboard Light"
+      },
+      {
+        "id": "38",
+        "name": "HP ENVY Laptop",
+        "desc": "Laptop",
+        "price": 550,
+        "image": "./assets/images/lap8.jpg",
+        "specs": "360 degree Convertible, Brand New <br> Core i7-10th generation <br> 16GB DDR4 RAM, 512 GB SSD Storage <br> With Keyboard Light"
+      }
+    ],
+    "watch": [
+      {
+        "id": "39",
+        "name": "Apple Smart Watch",
+        "desc": "Watch",
+        "price": 70,
+        "image": "./assets/images/watch1.jpg"
+      },
+      {
+        "id": "40",
+        "name": "SKMEI Dual Time Watch",
+        "desc": "Watch",
+        "price": 45,
+        "image": "./assets/images/watch2.jpg"
+      },
+      {
+        "id": "41",
+        "name": "MW BiDen Golden Watch",
+        "desc": "Watch",
+        "price": 60,
+        "image": "./assets/images/watch4.jpg"
+      },
+      {
+        "id": "42",
+        "name": "Tachymeter Silver Watch",
+        "desc": "Watch",
+        "price": 50,
+        "image": "./assets/images/watch6.jpg"
+      },
+      {
+        "id": "43",
+        "name": "SKMEI Watch",
+        "desc": "Watch",
+        "price": 70,
+        "image": "./assets/images/watch8.jpg"
+      },
+      {
+        "id": "44",
+        "name": "Diollo DIO20 Auto Watch",
+        "desc": "Watch",
+        "price": 60,
+        "image": "./assets/images/watch10.jpg"
+      },
+      {
+        "id": "45",
+        "name": "LIGE Men's Watch",
+        "desc": "Watch",
+        "price": 0,
+        "image": "./assets/images/watch11.jpg"
+      },
+      {
+        "id": "46",
+        "name": "Oulm Triple Watch",
+        "desc": "Watch",
+        "price": 40,
+        "image": "./assets/images/watch12.jpg"
+      },
+      {
+        "id": "47",
+        "name": "SVESTON Golden Watch",
+        "desc": "Watch",
+        "price": 55,
+        "image": "./assets/images/watch13.jpg"
+      },
+      {
+        "id": "48",
+        "name": "Apple Watch",
+        "desc": "Watch",
+        "price": 69,
+        "image": "./assets/images/watch3.jpg"
+      }
+    ],
+    "jacket": [
+      {
+        "id": "49",
+        "name": "Jeans Jacket",
+        "desc": "Jacket",
+        "price": 20,
+        "image": "./assets/images/jack1.jpg"
+      },
+      {
+        "id": "50",
+        "name": "Green Women's Jacket",
+        "desc": "Jacket",
+        "price": 20,
+        "image": "./assets/images/jack2.png"
+      },
+      {
+        "id": "51",
+        "name": "Crivit Sport Jacket",
+        "desc": "Jacket",
+        "price": 40,
+        "image": "./assets/images/jack3.png"
+      },
+      {
+        "id": "52",
+        "name": "Men's Quilted Jacket",
+        "desc": "Jacket",
+        "price": 45,
+        "image": "./assets/images/jack4.jpg"
+      },
+      {
+        "id": "53",
+        "name": "SKI Jacket",
+        "desc": "Jacket",
+        "price": 30,
+        "image": "./assets/images/jack5.png"
+      },
+      {
+        "id": "54",
+        "name": "High Quality Jacket",
+        "desc": "Jacket",
+        "price": 66,
+        "image": "./assets/images/jack6.png"
+      },
+      {
+        "id": "55",
+        "name": "Atom LT Jacket",
+        "desc": "Jacket",
+        "price": 49,
+        "image": "./assets/images/jack7.png"
+      },
+      {
+        "id": "56",
+        "name": "North Face Danali Jacket",
+        "desc": "Jacket",
+        "price": 62,
+        "image": "./assets/images/jack8.png"
+      },
+      {
+        "id": "57",
+        "name": "Women's Leather Jacket",
+        "desc": "Jacket",
+        "price": 70,
+        "image": "./assets/images/jack9.png"
+      },
+      {
+        "id": "58",
+        "name": "Men's Black Jacket",
+        "desc": "Jacket",
+        "price": 50,
+        "image": "./assets/images/jack10.png"
+      }
+    ],
+    "phone": [
+      {
+        "id": "59",
+        "name": "iPhone 13ProMax",
+        "desc": "Phone",
+        "price": 300,
+        "image": "./assets/images/p.jpg"
+      },
+      {
+        "id": "60",
+        "name": "Samsung Galaxy M32 5G",
+        "desc": "Phone",
+        "price": 100,
+        "image": "./assets/images/p2.jpg"
+      },
+      {
+        "id": "61",
+        "name": "Samsung Galaxy M12",
+        "desc": "Phone",
+        "price": 110,
+        "image": "./assets/images/p3.jpg"
+      },
+      {
+        "id": "62",
+        "name": "Samsung Note20 Ultra 5G",
+        "desc": "Phone",
+        "price": 140,
+        "image": "./assets/images/p4.jpg"
+      },
+      {
+        "id": "63",
+        "name": "Samsung Galaxy M13 5G",
+        "desc": "Phone",
+        "price": 110,
+        "image": "./assets/images/p5.jpg"
+      },
+      {
+        "id": "64",
+        "name": "iPhone 13Pro",
+        "desc": "Phone",
+        "price": 240,
+        "image": "./assets/images/p6.jpg"
+      },
+      {
+        "id": "65",
+        "name": "Samsung Galaxy S22 Ultra",
+        "desc": "Phone",
+        "price": 140,
+        "image": "./assets/images/p7.jpg"
+      },
+      {
+        "id": "66",
+        "name": "Samsung Galaxy A55 5G",
+        "desc": "Phone",
+        "price": 100,
+        "image": "./assets/images/p8.jpg"
+      },
+      {
+        "id": "67",
+        "name": "iPhone 13 ProMax",
+        "desc": "Phone",
+        "price": 230,
+        "image": "./assets/images/p10.jpg"
+      },
+      {
+        "id": "68",
+        "name": "Samsung Galaxy Flip 3",
+        "desc": "Phone",
+        "price": 150,
+        "image": "./assets/images/p11.jpg"
+      }
+    ]
+  }
+}
